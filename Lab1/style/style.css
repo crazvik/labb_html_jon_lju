@@ -1,0 +1,23 @@
+p {
+    width: 400px;
+    margin-left: 30px;
+    word-wrap: normal;
+    font-family: -apple-system, BlinkMacSystemFont, 
+    Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 
+    Open Sans, Helvetica Neue, sans-serif;
+}
+h1, h2, h4, nav {
+    font-family: -apple-system, BlinkMacSystemFont, 
+    Segoe UI, 'Roboto', Oxygen, Ubuntu, Cantarell, 
+    Open Sans, Helvetica Neue, sans-serif;
+}
+body {
+        background:	#6B8E23;
+    }
+img {
+    src: url("resources/images/me.jpg");
+    width: 300px;
+    transform: rotate(90deg);
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
